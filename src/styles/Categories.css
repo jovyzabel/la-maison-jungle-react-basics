@@ -1,0 +1,43 @@
+.lmj-categories {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+}
+
+.lmj-categories-btn{
+    background-color: #fff;
+    color: #31b572;
+    border: #31b572 solid 2px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.lmj-categories-btn:hover{
+    background-color: #31b572;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+}
+
+.lmj-reset-btn {
+    background-color: #fff;
+    color: #31b572;
+    border: #31b572 solid 2px;
+    border-radius: 5px;
+   
+}
+
+select{
+    accent-color: #31b572;
+    border: #31b572 solid 2px;
+    border-radius: 5px;
+}
+.lmj-hover:hover{
+    background-color: #31b572;
+    color: #fff;
+}
+
